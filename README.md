@@ -185,8 +185,3 @@ secureflow/
 ## Contributing
 
 Pull requests are welcome. Please open an issue first to discuss major changes.
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-## License
-
-[MIT](LICENSE) © 2024 Your Organization
